@@ -32,7 +32,7 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="images/mvh-history-stays.jpg"
 %}
 
-To tell you this correctly you need to know that Jack West’s farming story didn’t start in the rural countryside, but in a mechanic shop. He went to school to become a mechanic but once he started working as one, he felt extremely unhappy, until one day, he decided to book a trip to France and learn the language. It was there Jack met a woman named Carissa who introduced him to food and farming, and together they began traveling around France. They both decided to work on farms associated with WWOOF (Worldwide Opportunities on Organic Farms). At first, he went to a farm with livestock and while Jack enjoyed it, the work itself was incredibly draining. He soon left the livestock farm and began work on the vegetable farm Carissa was put on. They ended up staying there for three months and that was what kickstarted Jacks passion for farming.
+This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
 
