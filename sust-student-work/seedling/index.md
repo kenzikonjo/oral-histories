@@ -56,7 +56,7 @@ It seems being mindful of the farmer is a key theme for successful production. A
 
 
 ## Thoughtfulness within the Community 
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+{% include images/figure.html class="right" width="48%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/sweetpotatoguy.jpg" %}
 
 Going back to his title of “Sweet Potato Guy”, he and Willy Carleton, another farmer that worked with Doug Jones in North Carolina, had set off with the goal of growing sweet potatoes in New Mexico. They drove all the way out to North Carolina and carefully transported them back, going as far as taking them into their hotel room every night during the trip. Those efforts proved worthwhile because the slips ended up being perfect for the region. Once they were able to build up their supply, they began selling to people.
 
