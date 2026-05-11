@@ -17,11 +17,11 @@ tags:
 ---
 
 # The Story of Peas and Hominy Farm
-### Narrated by: Jack West
-### Interviewed by: Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods class
-### Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum class
+#### Narrated by: Jack West
+#### Interviewed by: Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods class
+#### Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum class
 
-## Your First Section Heading
+## Jack West's Story
 {% include images/figure.html
 class="right"
 width="48%"
@@ -35,28 +35,24 @@ After that Jack began bouncing around to different farms back in the States, dur
 
 [^1]: (Worldwide Opportunities on Organic Farms) https://wwoof.net/
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
+## Finding Oneself
+It may sound a little cliché but, on Jack’s travels, he didn’t just learn more about farming or growing practices, he learned about himself. As it turns out, finding yourself or finding what you’re willing to fight for is one of the hardest things you can do.
 
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters for students:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+When Jack was about to leave the first vegetable farm in France, he was talking to the owner and said, “’I think I’m gonna be an activist and be against Bush or whatever’. The farmer was like ‘You know what? Maybe you should think about being for something instead of against something.’” It was this sentiment that really pushed him into farming and spending his time learning about growing practices. He took a piece of wisdom with him from every farm he ventured to after France. This all would culminate in the establishment of his own farm. 
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Growth Mindset
+One of the biggest things that defines Jack West is his commitment to learning with a growth mindset. In North Carolina he worked at a farm called Piedmont Biofuels owned by a man named Doug Jones. It was there he found out how scientific farming can be.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+“Without the farmer, there’s none of it. There’s no one on the land making it happen, so we need to put the farmer first.”" %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+Doug taught him to take everything into consideration, the way the knife was held, how you plant, how you harvest, even how you make popcorn, (in case you want to know, you heat the oil first, then once you add the kernels in, you take the lid off halfway through the cook time so condensation doesn’t get on it, and you only add seasoning to the top layer so you can save the rest for later).
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+While it could be tiring at times, Jack learned incredible cultivation methods, including how to save a mouse infested harvest of sweet potatoes by turning the five spared plants into half an acre (it’s as simple as planting their growth points). Once he got back from his travels and started Peas and Hominy, he joined the “Grow the Growers” educational program. However, the beginnings were rough due to disorganization; different trainers would finish different projects on different timelines which made for unrealistic goals and expectations for the students. Because of this, he switched paths to work on Whole Heart Farm with Josh Shelburne, focusing instead on systems and efficiency. When asked to rejoin Grow the Growers, he harnessed these ideas and integrated them into the class, modifying it to be a lecture while you were outside doing the work. These modifications proved to be fruitful with the harvests seen after, providing more than 20,000 pounds of produce.
+
+It seems being mindful of the farmer is a key theme for successful production. 
 
 
 ### Subsection Headings (Optional)
