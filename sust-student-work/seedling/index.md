@@ -52,57 +52,23 @@ Doug taught him to take everything into consideration, the way the knife was hel
 
 While it could be tiring at times, Jack learned incredible cultivation methods, including how to save a mouse infested harvest of sweet potatoes by turning the five spared plants into half an acre (it’s as simple as planting their growth points). Once he got back from his travels and started Peas and Hominy, he joined the “Grow the Growers” educational program. However, the beginnings were rough due to disorganization; different trainers would finish different projects on different timelines which made for unrealistic goals and expectations for the students. Because of this, he switched paths to work on Whole Heart Farm with Josh Shelburne, focusing instead on systems and efficiency. When asked to rejoin Grow the Growers, he harnessed these ideas and integrated them into the class, modifying it to be a lecture while you were outside doing the work. These modifications proved to be fruitful with the harvests seen after, providing more than 20,000 pounds of produce.
 
-It seems being mindful of the farmer is a key theme for successful production. 
+It seems being mindful of the farmer is a key theme for successful production. As Jack succinctly states: "Without the farmer, there’s none of it. There’s no one on the land making it happen, so we need to put the farmer first."
 
 
-### Subsection Headings (Optional)
-If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
-
-**Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
-
-
-## Images Can Be Different Widths
+## Thoughtfulness within the Community 
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+Going back to his title of “Sweet Potato Guy”, he and Willy Carleton, another farmer that worked with Doug Jones in North Carolina, had set off with the goal of growing sweet potatoes in New Mexico. They drove all the way out to North Carolina and carefully transported them back, going as far as taking them into their hotel room every night during the trip. Those efforts proved worthwhile because the slips ended up being perfect for the region. Once they were able to build up their supply, they began selling to people.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+After that momentum started, Jack got into contact with other farmers who shared their own experiences, like Patricia Allaire who taught him how to start onions. He ensured other farms had access to grow their own sweet potatoes and he offered to set up nurseries for Chispa’s, North Valley Organics, and Vida Verde. He brings this thoughtfulness into seemingly every facet of farming, even the not-so-glamorous aspects like burnout. According to Jack, 
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+> “Even burnout and failure is kind of a part of any person’s career evolution. It shouldn’t be seen as a failure, unless you can preemptively avoid it.”
 
-
-## The Rhythm of a ScrollStory
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
-
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
+ He acknowledges that, yes, failure can be a huge challenge or setback, however you can work to reframe some of that outlook. Jack chose to analyze how his productivity changes working with people vs. working by himself, how to prepare for a fight instead of hoping one doesn’t come. All of this leads to a better understanding of what comes next. 
 
 
-## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
-
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
-
-
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
-
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
+## Lessons Learned
+If you can take anything away from this, he hopes it would be to, **“Eat the food you grow, eat with people, and when you set your table for dinner, always set an extra place in the hopes that someone will join you.”** Jack West strives to blend laughter, hard work, and simple living, while those seem like they may oppose each other he has found a way to do it. Hopefully after reading this, you can find a way to incorporate some of these ideas into your everyday life!
 
 
 ## Ready to Create Your Own?
