@@ -16,13 +16,10 @@ tags:
     - campus
 ---
 
-# A Seedling Essay - Makenzi
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
-
-**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
+# The Story of Peas and Hominy Farm
+Narrated by: Jack West
+Interviewed by: Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods class
+Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 ## Your First Section Heading
 {% include images/figure.html
