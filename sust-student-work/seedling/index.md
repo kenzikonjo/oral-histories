@@ -3,9 +3,9 @@ title: Seedling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/peashominyturnips.png
+thumbnail: images/peashominyturnips.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/peashominyturnips.png
+header-image: images/peashominyturnips.jpg
 header-title:
 header-position: 0px
 toc-section: first
