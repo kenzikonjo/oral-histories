@@ -76,18 +76,4 @@ After that momentum started, Jack got into contact with other farmers who shared
 If you can take anything away from this, he hopes it would be to, **“Eat the food you grow, eat with people, and when you set your table for dinner, always set an extra place in the hopes that someone will join you.”** Jack West strives to blend laughter, hard work, and simple living, while those seem like they may oppose each other he has found a way to do it. Hopefully after reading this, you can find a way to incorporate some of these ideas into your everyday life!
 
 
-## Ready to Create Your Own?
-
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
-
-**Already have a site based on a Xanthan template?** To make your own Seedling essay:
-
-1. **Duplicate this folder** (`scrollstories/seedling/`) and rename it for your topic
-2. **Replace the text** with your own content, keeping the same structure
-3. **Add your own images** to the `images/` folder
-4. **Update the header** at the top (title, author, date, etc.)
-5. **Preview and adjust** spacing, image sizes, and flow
-
-Start simple. Get comfortable with the basics. You can always add complexity later by copying and pasting elements from the other essays.
-
 {% include scrollybox/auto-scroll.html speed=1.5 %}
