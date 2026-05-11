@@ -22,9 +22,8 @@ tags:
 #### Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 {% include media/audio.html
-  src="/audio/podcast.mp3"
+  src="/audio/podcast.MP3"
 %}
-
 
 ## Jack West's Story
 {% include images/figure.html
