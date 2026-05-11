@@ -22,7 +22,7 @@ tags:
 #### Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum class
 
 {% include media/audio.html
-  src="/media/podcast.mp3"
+  src="/audio/podcast.mp3"
 %}
 
 
