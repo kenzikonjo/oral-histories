@@ -6,8 +6,7 @@ date: 2025-07-21
 thumbnail: images/stockimagecorn.jpg
 summary: Born and raised in Albuquerque, New Mexico, Jack West learned to farm both in the Middle Rio Grande Valley, across the country, and overseas. His story delves into this gathered knowledge and mindset changes that shaped the farmer he is today.
 header-image: images/stockimagecorn.jpg
-header-title: The Story of Peas and Hominy Farm
-header-subtitle: Farmer Jack West
+header-title: 
 header-position: 0px
 toc-section: first
 geo: [37.88, -81.08]
