@@ -3,9 +3,9 @@ title: Seedling
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-thumbnail: images/peashominyturnips.jpg
+thumbnail: images/stockimagecorn.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/peashominyturnips.jpg
+header-image: images/stockimagecorn.jpg
 header-title:
 header-position: 0px
 toc-section: first
@@ -18,8 +18,8 @@ tags:
 
 # The Story of Peas and Hominy Farm
 #### Narrated by: Jack West
-#### Interviewed by: Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods class
-#### Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum class
+#### Interviewed by: Stephanie Mladinich, Fall 2025 GEOG-589 Qualitative Methods Class
+#### Web Profile by: Makenzi Nyquist & Teagan Stuyvesant, Spring 2026 SUST-364 Local Food Systems Practicum Class
 
 {% include media/audio.html
   src="audio/podcast.wav"
@@ -31,7 +31,7 @@ tags:
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+image-path="images/jackwestnew.jpg"
 %}
 
 To tell you this correctly you need to know that Jack West’s farming story didn’t start in the rural countryside, but in a mechanic shop. He went to school to become a mechanic but once he started working as one, he felt extremely unhappy, until one day, he decided to book a trip to France and learn the language. It was there Jack met a woman named Carissa who introduced him to food and farming, and together they began traveling around France. They both decided to work on farms associated with WWOOF [^1] . At first, he went to a farm with livestock and while Jack enjoyed it, the work itself was incredibly draining. He soon left the livestock farm and began work on the vegetable farm Carissa was put on. They ended up staying there for three months and that was what kickstarted Jacks passion for farming.
