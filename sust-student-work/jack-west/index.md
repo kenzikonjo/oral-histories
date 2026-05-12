@@ -29,7 +29,7 @@ tags:
 ## Jack West's Story
 {% include images/figure.html
 class="right"
-width="48%"
+width="40%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
 image-path="images/jackwestnew.jpg"
 %}
