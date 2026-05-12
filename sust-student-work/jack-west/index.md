@@ -1,10 +1,10 @@
 ---
-title: Seedling
+title: Peas and Hominy
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/stockimagecorn.jpg
-summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
+summary: Born and raised in Albuquerque, New Mexico, Jack West learned to farm both in the Middle Rio Grande Valley, across the country, and overseas. His story delves into this gathered knowledge and mindset changes that shaped the farmer he is today.
 header-image: images/stockimagecorn.jpg
 header-title:
 header-position: 0px
@@ -57,7 +57,7 @@ Doug taught him to take *everything* into consideration, the way the knife was h
 
 While it could be tiring at times, Jack learned incredible cultivation methods, including how to save a mouse-infested harvest of sweet potatoes by turning the five spared plants into half an acre (it’s as simple as planting their growth points). Once he got back from his travels and founded Peas and Hominy Farm in 2013, he joined the Grow the Growers farmer training program[^2]. However, the beginnings were rough due to disorganization; different trainers would finish projects on various timelines, which made for unrealistic goals and expectations for the students. Because of this, Jack switched paths to work on Whole Heart Farm with Josh Shelburne, focusing instead on systems and efficiency. When asked to rejoin Grow the Growers, he harnessed these ideas and integrated them into the class, modifying it to include a lecture *while* you were outside doing the work. These modifications proved to be fruitful with the harvests seen after, providing **16,000 more pounds of produce** than the previous year.
 
-[^2]: (Grow the Growers Program) https://www.ciudadswcd.org/grow-the-growers-program
+[^2]: Grow the Growers Program [Source](https://www.ciudadswcd.org/grow-the-growers-program)
 
 It seems being mindful of the farmer is a key theme for successful production. As Jack succinctly states: "Without the farmer, there’s none of it. There’s no one on the land making it happen, so we need to put the farmer first."
 
@@ -75,7 +75,7 @@ He acknowledges that, yes, failure can be a huge challenge or setback, however y
 
 
 ## Lessons Learned
-If you can take anything away from this narrative, Jack hopes it would be to,
+If you can take anything away from this narrative, Jack hopes it would be to:
 
 > “Eat the food you grow, eat with people, and when you set your table for dinner, always set an extra place in the hopes that someone will join you.”
 
