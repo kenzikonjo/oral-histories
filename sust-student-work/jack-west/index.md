@@ -77,9 +77,7 @@ He acknowledges that, yes, failure can be a huge challenge or setback, however y
 ## Lessons Learned
 If you can take anything away from this narrative, Jack hopes it would be to,
 
-{% include typography/pullquote.html
-  text="Eat the food you grow, eat with people, and when you set your table for dinner, always set an extra place in the hopes that someone will join you."
-%}
+> “Eat the food you grow, eat with people, and when you set your table for dinner, always set an extra place in the hopes that someone will join you.”
 
 He strives to blend laughter, hard work, and simple living—and while those seem like they may oppose each other—Jack has found a way to do it. Hopefully after reading this, you too can find a way to incorporate some of these ideas into your everyday life.
 
