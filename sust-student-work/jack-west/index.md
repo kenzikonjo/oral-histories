@@ -30,7 +30,7 @@ tags:
 {% include images/figure.html
 class="right"
 width="35%"
-caption="Jack West [Source](https://www.bernco.gov/community-services/wp-content/uploads/sites/57/2023/04/Program-Leadership_Bios_2023.pdf)"
+caption="Jack West"
 image-path="images/jackwestnew.jpg"
 %}
 
@@ -38,7 +38,7 @@ To tell you this correctly you need to know that Jack West’s farming story did
 
 After returning to the States, Jack began bouncing around different farms, honing his skills and growing more passionate about food and farming. He farmed at Los Poblanos in Albuquerque, then worked on farms in North Carolina, Oregon, Pennsylvania, and California. Upon returning to New Mexico, Jack used all the experience he had gained about irrigation, growing practices, and sales to become “The Sweet Potato Guy.”
 
-[^1]: Worldwide Opportunities on Organic Farms [Source](https://wwoof.net/)
+[^1]: [Worldwide Opportunities on Organic Farms](https://wwoof.net/)
 
 
 ## Finding Oneself
@@ -57,7 +57,7 @@ Doug taught him to take *everything* into consideration, the way the knife was h
 
 While it could be tiring at times, Jack learned incredible cultivation methods, including how to save a mouse-infested harvest of sweet potatoes by turning the five spared plants into half an acre (it’s as simple as planting their growth points). Once he got back from his travels and founded Peas and Hominy Farm in 2013, he joined the Grow the Growers farmer training program[^2]. However, the beginnings were rough due to disorganization; different trainers would finish projects on various timelines, which made for unrealistic goals and expectations for the students. Because of this, Jack switched paths to work on Whole Heart Farm with Josh Shelburne, focusing instead on systems and efficiency. When asked to rejoin Grow the Growers, he harnessed these ideas and integrated them into the class, modifying it to include a lecture *while* you were outside doing the work. These modifications proved to be fruitful with the harvests seen after, providing **16,000 more pounds of produce** than the previous year.
 
-[^2]: Grow the Growers Program [Source](https://www.ciudadswcd.org/grow-the-growers-program)
+[^2]: [Grow the Growers Program](https://www.ciudadswcd.org/grow-the-growers-program)
 
 It seems being mindful of the farmer is a key theme for successful production. As Jack succinctly states: "Without the farmer, there’s none of it. There’s no one on the land making it happen, so we need to put the farmer first."
 
